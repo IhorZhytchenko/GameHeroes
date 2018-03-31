@@ -1,0 +1,144 @@
+
+1 Создание команд
+2 За команду Team 1 играют следущие расы: [Human, Undead]
+3 За команду Team 2 играют следущие расы: [Elf, Orc]
+4 Битва началась!
+5 Игрок Archer3 команды Team 1 нанес 5hp урона игроку Mage команды Team 2
+6 Игрок Warrior2 команды Team 1 нанес 18hp урона игроку Warrior3 команды Team 2
+7 Игрок Mage команды Team 1 наложил недуг на игрока Warrior2 команды Team 2
+8 Игрок Warrior3 команды Team 1 нанес 18hp урона игроку Archer1 команды Team 2
+9 Игрок Archer2 команды Team 1 нанес 3hp урона игроку Warrior3 команды Team 2
+10 Игрок Warrior1 команды Team 1 нанес 18hp урона игроку Archer1 команды Team 2
+11 Игрок Warrior4 команды Team 1 нанес 18hp урона игроку Warrior2 команды Team 2
+12 Игрок Archer1 команды Team 1 нанес 3hp урона игроку Warrior4 команды Team 2
+13 Игрок Archer3 команды Team 2 нанес 3hp урона игроку Archer3 команды Team 1
+14 Игрок Warrior2 команды Team 2 нанес 10hp урона игроку Archer2 команды Team 1
+15 Игрок Warrior1 команды Team 2 нанес 20hp урона игроку Warrior4 команды Team 1
+16 Игрок Warrior3 команды Team 2 нанес 20hp урона игроку Warrior3 команды Team 1
+17 Игрок Archer1 команды Team 2 нанес 7hp урона игроку Archer2 команды Team 1
+18 Игрок Warrior4 команды Team 2 нанес 15hp урона игроку Archer3 команды Team 1
+19 Игрок Mage команды Team 2 нанес 10hp урона игроку Warrior2 команды Team 1
+20 Игрок Archer2 команды Team 2 нанес 7hp урона игроку Archer2 команды Team 1
+21 Игрок Warrior1 команды Team 1 нанес 18hp урона игроку Warrior4 команды Team 2
+22 Игрок Warrior4 команды Team 1 нанес 18hp урона игроку Mage команды Team 2
+23 Игрок Archer3 команды Team 1 нанес 5hp урона игроку Warrior2 команды Team 2
+24 Игрок Archer2 команды Team 1 нанес 3hp урона игроку Warrior2 команды Team 2
+25 Игрок Archer1 команды Team 1 нанес 5hp урона игроку Archer2 команды Team 2
+26 Игрок Mage команды Team 1 наложил недуг на игрока Mage команды Team 2
+27 Игрок Warrior2 команды Team 1 нанес 18hp урона игроку Warrior4 команды Team 2
+28 Игрок Warrior3 команды Team 1 нанес 18hp урона игроку Warrior3 команды Team 2
+29 Игрок Archer1 команды Team 2 нанес 3hp урона игроку Archer2 команды Team 1
+30 Игрок Archer2 команды Team 2 нанес 3hp урона игроку Warrior4 команды Team 1
+31 Игрок Warrior3 команды Team 2 нанес 20hp урона игроку Archer1 команды Team 1
+32 Игрок Warrior2 команды Team 2 нанес 20hp урона игроку Archer2 команды Team 1
+33 Игрок Archer3 команды Team 2 нанес 7hp урона игроку Mage команды Team 1
+34 Игрок Warrior1 команды Team 2 нанес 20hp урона игроку Archer1 команды Team 1
+35 Игрок Mage команды Team 2 наложил улутшения на игрока Mage
+36 Игрок Warrior4 команды Team 2 нанес 15hp урона игроку Warrior3 команды Team 1
+37 Игрок Warrior4 команды Team 1 нанес 18hp урона игроку Archer2 команды Team 2
+38 Игрок Warrior2 команды Team 1 нанес 18hp урона игроку Archer3 команды Team 2
+39 Игрок Mage команды Team 1 наложил недуг на игрока Archer2 команды Team 2
+40 Игрок Warrior1 команды Team 1 нанес 18hp урона игроку Warrior2 команды Team 2
+41 Игрок Warrior3 команды Team 1 нанес 18hp урона игроку Archer2 команды Team 2
+42 Игрок Archer2 команды Team 1 нанес 5hp урона игроку Warrior2 команды Team 2
+43 Игрок Archer1 команды Team 1 нанес 3hp урона игроку Archer3 команды Team 2
+44 Игрок Archer3 команды Team 1 нанес 3hp урона игроку Archer3 команды Team 2
+45 Игрок Mage команды Team 2 нанес 15hp урона игроку Warrior1 команды Team 1
+46 Игрок Warrior4 команды Team 2 нанес 15hp урона игроку Warrior3 команды Team 1
+47 Игрок Warrior2 команды Team 2 нанес 20hp урона игроку Warrior2 команды Team 1
+48 Игрок Warrior1 команды Team 2 нанес 20hp урона игроку Warrior1 команды Team 1
+49 Игрок Warrior3 команды Team 2 нанес 20hp урона игроку Archer2 команды Team 1
+50 Игрок Archer3 команды Team 2 нанес 7hp урона игроку Warrior4 команды Team 1
+51 Игрок Archer2 команды Team 2 нанес 3hp урона игроку Warrior2 команды Team 1
+52 Игрок Archer1 команды Team 2 нанес 7hp урона игроку Warrior2 команды Team 1
+53 Игрок Archer1 команды Team 1 нанес 5hp урона игроку Warrior2 команды Team 2
+54 Игрок Warrior2 команды Team 1 нанес 18hp урона игроку Archer2 команды Team 2
+55 Игрок Warrior1 команды Team 1 нанес 18hp урона игроку Warrior4 команды Team 2
+56 Игрок Warrior4 команды Team 1 нанес 18hp урона игроку Archer3 команды Team 2
+57 Игрок Archer2 команды Team 1 нанес 3hp урона игроку Warrior2 команды Team 2
+58 Игрок Mage команды Team 1 нанес 5hp урона игроку Warrior3 команды Team 2
+59 Игрок Warrior3 команды Team 1 нанес 18hp урона игроку Archer3 команды Team 2
+60 Игрок Archer3 команды Team 1 нанес 3hp урона игроку Warrior1 команды Team 2
+61 Игрок Warrior1 команды Team 2 нанес 20hp урона игроку Warrior2 команды Team 1
+62 Игрок Archer1 команды Team 2 нанес 7hp урона игроку Warrior4 команды Team 1
+63 Игрок Warrior4 команды Team 2 нанес 15hp урона игроку Archer2 команды Team 1
+64 Игрок Archer2 команды Team 2 нанес 7hp урона игроку Warrior1 команды Team 1
+65 Игрок Warrior2 команды Team 2 нанес 20hp урона игроку Warrior1 команды Team 1
+66 Игрок Archer3 команды Team 2 нанес 7hp урона игроку Warrior3 команды Team 1
+67 Игрок Mage команды Team 2 нанес 10hp урона игроку Archer2 команды Team 1
+68 Игрок Warrior3 команды Team 2 нанес 20hp урона игроку Warrior4 команды Team 1
+69 Игрок Warrior4 команды Team 1 нанес 18hp урона игроку Warrior1 команды Team 2
+70 Игрок Warrior1 команды Team 1 нанес 18hp урона игроку Archer3 команды Team 2
+71 Игрок Archer1 команды Team 1 нанес 5hp урона игроку Mage команды Team 2
+72 Игрок Warrior3 команды Team 1 нанес 18hp урона игроку Archer2 команды Team 2
+73 Игрок Warrior2 команды Team 1 нанес 18hp урона игроку Warrior4 команды Team 2
+74 Игрок Archer3 команды Team 1 нанес 3hp урона игроку Warrior4 команды Team 2
+75 Игрок Archer2 команды Team 1 нанес 3hp урона игроку Archer1 команды Team 2
+76 Игрок Mage команды Team 1 нанес 5hp урона игроку Warrior4 команды Team 2
+77 Игрок Mage команды Team 2 нанес 10hp урона игроку Archer3 команды Team 1
+78 Игрок Archer3 команды Team 2 нанес 7hp урона игроку Warrior3 команды Team 1
+79 Игрок Warrior1 команды Team 2 нанес 20hp урона игроку Archer2 команды Team 1
+80 Игрок Archer2 команды Team 1 убит!!! 
+81 Игрок Archer1 команды Team 2 нанес 7hp урона игроку Warrior1 команды Team 1
+82 Игрок Warrior3 команды Team 2 нанес 20hp урона игроку Warrior1 команды Team 1
+83 Игрок Warrior2 команды Team 2 нанес 20hp урона игроку Warrior3 команды Team 1
+84 Игрок Warrior4 команды Team 2 нанес 15hp урона игроку Warrior3 команды Team 1
+85 Игрок Archer2 команды Team 2 нанес 3hp урона игроку Warrior4 команды Team 1
+86 Игрок Warrior3 команды Team 1 нанес 18hp урона игроку Archer3 команды Team 2
+87 Игрок Warrior1 команды Team 1 нанес 18hp урона игроку Warrior1 команды Team 2
+88 Игрок Mage команды Team 1 наложил недуг на игрока Archer2 команды Team 2
+89 Игрок Archer1 команды Team 1 нанес 3hp урона игроку Warrior4 команды Team 2
+90 Игрок Warrior4 команды Team 1 нанес 18hp урона игроку Archer2 команды Team 2
+91 Игрок Archer3 команды Team 1 нанес 5hp урона игроку Archer1 команды Team 2
+92 Игрок Warrior2 команды Team 1 нанес 18hp урона игроку Archer1 команды Team 2
+93 Игрок Mage команды Team 2 наложил улутшения на игрока Warrior1
+94 Игрок Archer1 команды Team 2 нанес 7hp урона игроку Warrior4 команды Team 1
+95 Игрок Warrior4 команды Team 2 нанес 15hp урона игроку Warrior2 команды Team 1
+96 Игрок Archer3 команды Team 2 нанес 3hp урона игроку Mage команды Team 1
+97 Игрок Archer2 команды Team 2 нанес 3hp урона игроку Archer1 команды Team 1
+98 Игрок Warrior1 команды Team 2 нанес 30hp урона игроку Warrior1 команды Team 1
+99 Игрок Warrior1 команды Team 1 убит!!! 
+100 Игрок Warrior3 команды Team 2 нанес 20hp урона игроку Warrior3 команды Team 1
+101 Игрок Warrior3 команды Team 1 убит!!! 
+102 Игрок Warrior2 команды Team 2 нанес 20hp урона игроку Archer1 команды Team 1
+103 Игрок Mage команды Team 1 нанес 5hp урона игроку Mage команды Team 2
+104 Игрок Warrior2 команды Team 1 нанес 18hp урона игроку Warrior3 команды Team 2
+105 Игрок Archer1 команды Team 1 нанес 3hp урона игроку Mage команды Team 2
+106 Игрок Warrior4 команды Team 1 нанес 18hp урона игроку Archer3 команды Team 2
+107 Игрок Archer3 команды Team 2 убит!!! 
+108 Игрок Archer3 команды Team 1 нанес 3hp урона игроку Warrior4 команды Team 2
+109 Игрок Warrior1 команды Team 2 нанес 20hp урона игроку Archer1 команды Team 1
+110 Игрок Warrior2 команды Team 2 нанес 20hp урона игроку Warrior2 команды Team 1
+111 Игрок Mage команды Team 2 наложил улутшения на игрока Warrior2
+112 Игрок Warrior3 команды Team 2 нанес 20hp урона игроку Warrior2 команды Team 1
+113 Игрок Warrior2 команды Team 1 убит!!! 
+114 Игрок Warrior4 команды Team 2 нанес 15hp урона игроку Archer1 команды Team 1
+115 Игрок Archer2 команды Team 2 нанес 7hp урона игроку Archer1 команды Team 1
+116 Игрок Archer1 команды Team 1 убит!!! 
+117 Игрок Archer1 команды Team 2 нанес 3hp урона игроку Warrior4 команды Team 1
+118 Игрок Archer3 команды Team 1 нанес 3hp урона игроку Archer2 команды Team 2
+119 Игрок Mage команды Team 1 наложил недуг на игрока Mage команды Team 2
+120 Игрок Warrior4 команды Team 1 нанес 18hp урона игроку Archer2 команды Team 2
+121 Игрок Archer2 команды Team 2 убит!!! 
+122 Игрок Warrior2 команды Team 2 нанес 30hp урона игроку Warrior4 команды Team 1
+123 Игрок Warrior4 команды Team 1 убит!!! 
+124 Игрок Archer1 команды Team 2 нанес 3hp урона игроку Mage команды Team 1
+125 Игрок Warrior4 команды Team 2 нанес 15hp урона игроку Archer3 команды Team 1
+126 Игрок Warrior3 команды Team 2 нанес 20hp урона игроку Archer3 команды Team 1
+127 Игрок Mage команды Team 2 наложил улутшения на игрока Warrior4
+128 Игрок Warrior1 команды Team 2 нанес 20hp урона игроку Mage команды Team 1
+129 Игрок Mage команды Team 1 нанес 5hp урона игроку Archer1 команды Team 2
+130 Игрок Archer3 команды Team 1 нанес 3hp урона игроку Warrior2 команды Team 2
+131 Игрок Warrior4 команды Team 2 нанес 22hp урона игроку Mage команды Team 1
+132 Игрок Warrior2 команды Team 2 нанес 20hp урона игроку Mage команды Team 1
+133 Игрок Archer1 команды Team 2 нанес 3hp урона игроку Archer3 команды Team 1
+134 Игрок Warrior3 команды Team 2 нанес 20hp урона игроку Archer3 команды Team 1
+135 Игрок Mage команды Team 2 нанес 10hp урона игроку Mage команды Team 1
+136 Игрок Warrior1 команды Team 2 нанес 20hp урона игроку Archer3 команды Team 1
+137 Игрок Archer3 команды Team 1 убит!!! 
+138 Игрок Mage команды Team 1 наложил недуг на игрока Warrior3 команды Team 2
+139 Игрок Archer1 команды Team 2 нанес 7hp урона игроку Mage команды Team 1
+140 Игрок Mage команды Team 2 наложил улутшения на игрока Mage
+141 Игрок Warrior3 команды Team 2 нанес 10hp урона игроку Mage команды Team 1
+142 Игрок Mage команды Team 1 убит!!! 
+143 Битва закончилась! Победитель - Team 2
